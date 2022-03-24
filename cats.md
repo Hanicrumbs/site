@@ -1,3 +1,7 @@
+layout: page
+title: "Cats"
+permalink: /cats/
+
 # Cats
 
 # Cats

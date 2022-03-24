@@ -4,8 +4,6 @@ permalink: /cats/
 
 # Cats
 
-# Cats
-
 Cats are one of the two most common pets in todays world. And why shouldn't they.
 
 ## Here are some reasons, why Cats are one of the better pets (for some)

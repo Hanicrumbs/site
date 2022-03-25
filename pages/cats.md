@@ -19,3 +19,5 @@ Some, however, sadly cannot keep a cat because of their allergies from the cats 
 [Wikipedias Cat image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg)
 
 [Main Page](https://hanicrumbs.github.io/site)
+
+{{ page.path }}

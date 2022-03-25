@@ -7,7 +7,7 @@ title: Swift Code Snippets
 I'm trying the Code Snippets feature of yaml.
 Below, you should see the code in a codeblock (hopefully)
 
-{% highlight swift %}
+{% highlight swift linenos %}
 for i in 30(
 	moveForward()
 	)

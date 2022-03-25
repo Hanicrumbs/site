@@ -5,5 +5,5 @@ Learning about this feature just reacently, I wanted to try out the possibilitie
 
 So these pages are me trying out the [Github Pages](https://pages.github.com/) features and trying to make some sense out of the markdown and yaml possibilities.
 
-[Cats Subsite]{% link pages/cats.md %}  
-[Swift Snippets Page]{% link pages/swift-snippets.md %}
+[Cats Subsite]({% link pages/cats.md %})  
+[Swift Snippets Page]({% link pages/swift-snippets.md %})

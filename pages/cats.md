@@ -1,3 +1,8 @@
+---
+layout: page
+title: Cats
+---
+
 # Cats
 
 Cats are one of the two most common pets in todays world. And why shouldn't they.

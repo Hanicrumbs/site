@@ -17,7 +17,6 @@ turnRight()
 
 # Other Pages
 
-[My Cat Page]({% link site/pages/cats.md %})  
-[Home]({% link /index.md %})
+
 
 {{ page.path }}

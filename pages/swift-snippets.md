@@ -15,4 +15,4 @@ turnRight()
 
 # Other Pages
 
-[My Cat page]{% link site/pages/cats.md %}
+[My Cat page]{% link _pages/cats.md %}

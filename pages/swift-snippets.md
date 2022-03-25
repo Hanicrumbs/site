@@ -17,5 +17,5 @@ turnRight()
 
 # Other Pages
 
-[My Cat Page]{% link pages/cats.md %}
+[My Cat Page]{% link pages/cats.md %}  
 [Home]{% link index.md %}

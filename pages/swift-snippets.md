@@ -17,6 +17,6 @@ turnRight()
 
 # Other Pages
 
-[Cats](/cats.md)
-[home](site/index.md)
+[Cats](/cats.md)  
+[home](/index.md)
 

@@ -20,4 +20,4 @@ Some, however, sadly cannot keep a cat because of their allergies from the cats 
 
 
 
-[home](site/index.md)
+[home](/index.md)

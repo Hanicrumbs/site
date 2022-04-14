@@ -1,6 +1,6 @@
 ---
 title: Home
-permalink: /site/
+permalink: /index.md
 ---
 
 # Welcome

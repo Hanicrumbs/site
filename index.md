@@ -1,3 +1,8 @@
+---
+title: Home
+permalink: /index.md
+---
+
 # Welcome
 
 Welcome to this GitHub Pages test site.  

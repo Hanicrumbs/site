@@ -19,5 +19,5 @@ Some, however, sadly cannot keep a cat because of their allergies from the cats 
 
 
 
-[Swift-Snippets](/site/pages/swift-snippets.md)  
+[Swift-Snippets](/site/pages/swift-snippets.html)  
 [home](/site)
